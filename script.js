@@ -30,3 +30,5 @@ function updateTestimonial() {
         updateTestimonial();
     }, 10000);
 }
+
+updateTestimonial();
